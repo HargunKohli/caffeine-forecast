@@ -85,4 +85,7 @@ so nothing depends on files living on my machine.
 
 ## Dashboard
 
-*Coming soon.*
+**[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/hargun.kaur.kohli/viz/USCaffeineConsumptionbyGeneration1999-2035/Dashboard1)**
+
+Three views: the cohort effect at a fixed age, intake by age group and
+generation, and the projection to 2035.
